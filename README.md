@@ -7,6 +7,8 @@ El siguiente repositorio contiene
 * Una carpeta llamada Corte 1 con los documentos, enlaces, diagramas, etc del Corte 1
   
 * Una carpeta llamada Corte 2 con  ponga los documentos, enlaces, diagramas, etc del Corte 2
+
+* Una carpeta llamada Corte 3 con los documentos, enlaces, diagramas, etc del Corte 3
   
 * Una carpeta llamada Scrum, que se  usará más adelante.
 
